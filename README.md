@@ -1,7 +1,7 @@
 # GORILAZADAH - Automation 
 > Awesome Script for Clean and Update your Windows 
 
-> Para a versão em português clique [aqui](https://github.com/cristiancmoises/gorilazadah/blob/main/LEIA-ME.md)
+> Para a versão em português clique [🇧🇷](https://github.com/cristiancmoises/gorilazadah/blob/main/LEIA-ME.md)
 
 <img src="https://github.com/cristiancmoises/gorilazadah/assets/86272521/7f99f8b2-f13d-4740-b553-c6c0f2b58dd7" height=300 width=560>
 
