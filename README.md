@@ -26,7 +26,7 @@ In the windows gui perform the following steps:
 
 7.) Now add the **clean.bat** into scripts (Configuration\Windows Settings\Scripts)(double-click Shutdown). 
 
-All cache are cleaned by the **clean.bat**
+All cache are cleaned by the **clean.bat** (Include all temp from Microsoft Teams)
 Now all an administrator has to do is reboot the computer to perform windows updates smoothly.
 The same steps can be performed in GPO to acomplish the same thing on multiple Windows machines at the same time. **#profit**
 
