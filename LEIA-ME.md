@@ -16,7 +16,7 @@ Na GUI do Windows, execute as seguintes etapas:
 
 1.) Abra o Editor de Política de Grupo Local pressionando "Win + R" e digitando: gpedit.msc seguido de Ctrl + Shift + Enter.
 
-2.) Navegue até Computador **Configuração\Configurações do Windows\Scripts (Inicialização/Desligamento).
+2.) Navegue até Computador **Configuração\Configurações do Windows\Scripts** (Inicialização/Desligamento).
 
 3.) No painel de resultados, clique duas vezes em Desligar.
 
